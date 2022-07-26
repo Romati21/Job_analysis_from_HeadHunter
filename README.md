@@ -32,7 +32,7 @@
 
 ### Краткая информация о данных
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru в виде _csv_ файла.
-
+Файл базы можно скачать по ссылке https://drive.google.com/file/d/1yzzVVUdnpm8fLgYbABgUfONdYg_ESpNN/view?usp=sharing
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
